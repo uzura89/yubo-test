@@ -1,7 +1,8 @@
-#テストサイト
+# テストサイト
+
 https://seal-app-pnn54.ondigitalocean.app/
 
-#手順
+# 手順
 
 1. html ファイルと css ファイルを用意する
 2. (1)を github.com のリポジトリにアップロードする
@@ -9,7 +10,7 @@ https://seal-app-pnn54.ondigitalocean.app/
 4. namecheap でドメインを買って DNS サーバーを設定する
 5. digitalocean.com に(4)のドメインを設定する
 
-#リソース
+# リソース
 
 ・カラーコード
 https://htmlcolorcodes.com/
