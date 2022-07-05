@@ -5,12 +5,17 @@ https://seal-app-pnn54.ondigitalocean.app/
 # 手順
 
 1. html ファイルと css ファイルを用意する
-2. (1)を github.com のリポジトリにアップロードする
-3. digitalocean.com から(2)のリポジトリをデプロイする
-4. namecheap でドメインを買って DNS サーバーを設定する
-5. digitalocean.com に(4)のドメインを設定する
+2. (1)を GitHub のリポジトリにアップロードする
+3. DigitalOcean で App を作成して(2)のリポジトリと連携させる
+4. NameCheap でドメインを買って DigitalOcean と連携させる
+5. DigitalOcean に(4)のドメインを追加する
 
 # リソース
+
+・リンク
+https://github.com
+https://digitalocean.com
+https://namecheap.com
 
 ・カラーコード
 https://htmlcolorcodes.com/
