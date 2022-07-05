@@ -1,0 +1,53 @@
+/**
+* global
+**/
+
+html {
+  margin: 0;
+  background-color: #f1ca98;
+  color: #e08499;
+  font-family: "Alata", sans-serif;
+
+  background: rgb(250, 229, 212);
+  background: linear-gradient(
+    180deg,
+    rgba(250, 229, 212, 1) 0%,
+    rgba(185, 222, 220, 1) 100%,
+    rgba(209, 243, 255, 1) 100%,
+    rgba(181, 218, 211, 1) 100%
+  );
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+/**
+* main section
+**/
+
+.main {
+  height: 100%;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__image {
+  width: 20em;
+  border-radius: 100em;
+}
+
+.main__title {
+  margin-top: 1em;
+}
+
+.main__text {
+  font-size: 1.2em;
+  margin-top: -0.1em;
+}
